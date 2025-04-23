@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil GitHub! Aqui, você encontrará uma coleção dos meus p
 
 ## Vamos Conectar!
 
-- [LinkedIn](https://www.linkedin.com/in/edyass-706711264/)
+- LinkedIn: https://www.linkedin.com/in/edyass-706711264/
 - Email: yassunagajun@gmail.com
 
 
