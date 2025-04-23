@@ -1,6 +1,8 @@
 # Bem-vindo ao meu perfil GitHub!
 
-Olá! Eu sou Edwin Yassunaga, um estudante apaixonado por desenvolvimento de software. Bem-vindo ao meu perfil GitHub! Aqui, você encontrará uma coleção dos meus projetos, contribuições e um pouco sobre mim.
+Olá! Eu sou Edwin Yassunaga, um estudante apaixonado por desenvolvimento de software. 
+
+Bem-vindo ao meu perfil GitHub! Aqui, você encontrará uma coleção dos meus projetos, contribuições e um pouco sobre mim.
 
 ## Sobre mim
 
