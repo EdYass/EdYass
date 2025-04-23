@@ -15,7 +15,7 @@ Olá! Eu sou Edwin Yassunaga, um estudante apaixonado por desenvolvimento de sof
 
 ## Vamos Conectar!
 
-- [LinkedIn]([link-para-o-linkedin](https://www.linkedin.com/in/edyass-706711264/])
+- [LinkedIn]([link-para-o-linkedin](https://www.linkedin.com/in/edyass-706711264/)
 
 
 Agradeço por visitar meu perfil! Se tiver alguma dúvida ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato.
