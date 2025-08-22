@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil GitHub! Aqui, você encontrará uma coleção dos meus p
 
 ## Sobre mim
 
-- 🎓 Formação: 5° semestre em Análise e Desenvolvimento de Sistemas (ADS)
+- 🎓 Formação: 6° semestre em Análise e Desenvolvimento de Sistemas (ADS)
 - 💼 Trabalho: Bolsa de Estágio BackEnd-Development na Compass.UOL
 - ✅ Conhecimento: Java e Spring Framework
 - 🌱 Aprendendo: HTML, CSS, JavaScript e React 
